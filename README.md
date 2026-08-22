@@ -33,7 +33,7 @@ Casual riders average 18.8 minutes per ride compared to 12.1 minutes for members
 ---
 
 ## 5. Visualizations
-![Cyclistic Dashboard](dashboard_screenshot.png)
+![Cyclistic Dashboard](dashboard_screenshot.PNG)
 
 ---
 
